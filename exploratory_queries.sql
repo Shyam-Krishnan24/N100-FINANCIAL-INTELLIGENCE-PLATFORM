@@ -1,0 +1,12 @@
+SELECT COUNT(*) AS companies FROM companies;
+SELECT company_id, COUNT(*) years FROM profitandloss GROUP BY company_id ORDER BY years;
+SELECT company_id, COUNT(*) years FROM balancesheet GROUP BY company_id ORDER BY years;
+SELECT company_id, COUNT(*) years FROM cashflow GROUP BY company_id ORDER BY years;
+SELECT year, COUNT(*) records FROM profitandloss GROUP BY year ORDER BY year;
+SELECT year, COUNT(*) records FROM financial_ratios GROUP BY year ORDER BY year;
+SELECT broad_sector, COUNT(*) companies FROM sectors GROUP BY broad_sector ORDER BY companies DESC;
+SELECT COUNT(*) AS null_roes FROM financial_ratios WHERE return_on_equity_pct IS NULL;
+SELECT COUNT(*) AS positive_fcf_latest FROM financial_ratios WHERE year=(SELECT MAX(year) FROM financial_ratios) AND free_cash_flow_cr>0;
+SELECT company_id, return_on_equity_pct, debt_to_equity FROM financial_ratios WHERE year=(SELECT MAX(year) FROM financial_ratios) ORDER BY return_on_equity_pct DESC LIMIT 10;
+SELECT company_id, COUNT(*) AS reports FROM documents GROUP BY company_id ORDER BY reports;
+SELECT peer_group_name, COUNT(*) members FROM peer_groups GROUP BY peer_group_name;

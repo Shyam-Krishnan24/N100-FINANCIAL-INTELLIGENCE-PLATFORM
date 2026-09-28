@@ -1,0 +1,38 @@
+{
+  "generated_at": "2026-09-23T15:43:53.060877",
+  "checks": {
+    "companies_92": true,
+    "financial_ratio_rows_ge_1100": false,
+    "peer_groups_11": true,
+    "tearsheets_92": true,
+    "radars_92": true,
+    "sector_reports_source_count": 10,
+    "portfolio_pdf": true,
+    "api_openapi": true,
+    "tests_119_passed": true,
+    "critical_dq_zero": true
+  },
+  "table_counts": {
+    "companies": 92,
+    "profitandloss": 1070,
+    "balancesheet": 1140,
+    "cashflow": 1056,
+    "analysis": 4,
+    "documents": 1456,
+    "prosandcons": 14,
+    "sectors": 92,
+    "stock_prices": 5520,
+    "market_cap": 552,
+    "peer_groups": 56,
+    "financial_ratios": 1070,
+    "peer_percentiles": 448,
+    "pros_cons_generated": 493,
+    "portfolio_stats": 5,
+    "capital_allocation": 1070
+  },
+  "notes": [
+    "Source sectors.xlsx contains 10 broad sectors although the specification describes 11.",
+    "The source statements contain orphan tickers not present in companies.xlsx; those rows are rejected into data/rejected_rows.csv.",
+    "Computed financial_ratios contains 1,070 unique company-year rows from the clean source statements; the specification target of 1,100+ is not met by the supplied source coverage without inventing data."
+  ]
+}

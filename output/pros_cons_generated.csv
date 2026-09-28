@@ -1,0 +1,494 @@
+company_id,type,rule_triggered,text,confidence_pct
+ABB,pro,kpi_threshold,ROE above 20% in the latest available year.,85
+ABB,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+ABB,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+ABB,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+ABB,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+ABB,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+ABB,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+ADANIENSOL,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+ADANIENSOL,pro,kpi_threshold,Revenue CAGR exceeds 15% over five years.,85
+ADANIENSOL,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+ADANIENSOL,con,kpi_threshold,Debt-to-equity exceeds 2x; leverage warrants attention.,88
+ADANIENSOL,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+ADANIENSOL,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+ADANIENT,pro,kpi_threshold,Revenue CAGR exceeds 15% over five years.,85
+ADANIENT,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+ADANIENT,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+ADANIENT,con,kpi_threshold,Free cash flow is negative in the latest available year.,78
+ADANIENT,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+ADANIENT,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+ADANIGREEN,pro,kpi_threshold,Revenue CAGR exceeds 15% over five years.,85
+ADANIGREEN,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+ADANIGREEN,con,kpi_threshold,Debt-to-equity exceeds 2x; leverage warrants attention.,88
+ADANIGREEN,con,kpi_threshold,Free cash flow is negative in the latest available year.,78
+ADANIGREEN,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+ADANIGREEN,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+ADANIPORTS,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+ADANIPORTS,pro,kpi_threshold,Revenue CAGR exceeds 15% over five years.,85
+ADANIPORTS,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+ADANIPORTS,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+ADANIPORTS,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+ADANIPORTS,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+ADANIPOWER,pro,kpi_threshold,ROE above 20% in the latest available year.,85
+ADANIPOWER,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+ADANIPOWER,pro,kpi_threshold,Free cash flow has remained positive for five consecutive years.,90
+ADANIPOWER,pro,kpi_threshold,Revenue CAGR exceeds 15% over five years.,85
+ADANIPOWER,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+ADANIPOWER,con,kpi_threshold,No configured risk threshold was triggered; review the underlying KPIs.,61
+AMBUJACEM,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+AMBUJACEM,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+AMBUJACEM,con,kpi_threshold,Free cash flow is negative in the latest available year.,78
+AMBUJACEM,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+AMBUJACEM,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+APOLLOHOSP,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+APOLLOHOSP,pro,kpi_threshold,Free cash flow has remained positive for five consecutive years.,90
+APOLLOHOSP,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+APOLLOHOSP,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+APOLLOHOSP,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+APOLLOHOSP,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+ASIANPAINT,pro,kpi_threshold,ROE above 20% in the latest available year.,85
+ASIANPAINT,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+ASIANPAINT,pro,kpi_threshold,Free cash flow has remained positive for five consecutive years.,90
+ASIANPAINT,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+ASIANPAINT,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+ASIANPAINT,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+ASIANPAINT,con,kpi_threshold,No configured risk threshold was triggered; review the underlying KPIs.,61
+ATGL,pro,kpi_threshold,Revenue CAGR exceeds 15% over five years.,85
+ATGL,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+ATGL,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+ATGL,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+AXISBANK,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+AXISBANK,con,kpi_threshold,Debt-to-equity exceeds 2x; leverage warrants attention.,88
+AXISBANK,con,kpi_threshold,Free cash flow is negative in the latest available year.,78
+AXISBANK,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+AXISBANK,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+BAJAJ-AUTO,pro,kpi_threshold,ROE above 20% in the latest available year.,85
+BAJAJ-AUTO,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+BAJAJ-AUTO,pro,kpi_threshold,Free cash flow has remained positive for five consecutive years.,90
+BAJAJ-AUTO,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+BAJAJ-AUTO,con,kpi_threshold,No configured risk threshold was triggered; review the underlying KPIs.,61
+BAJAJFINSV,pro,kpi_threshold,ROE above 20% in the latest available year.,85
+BAJAJFINSV,pro,kpi_threshold,Revenue CAGR exceeds 15% over five years.,85
+BAJAJFINSV,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+BAJAJFINSV,con,kpi_threshold,Debt-to-equity exceeds 2x; leverage warrants attention.,88
+BAJAJFINSV,con,kpi_threshold,Free cash flow is negative in the latest available year.,78
+BAJAJFINSV,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+BAJAJFINSV,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+BAJAJHLDNG,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+BAJAJHLDNG,pro,kpi_threshold,Revenue CAGR exceeds 15% over five years.,85
+BAJAJHLDNG,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+BAJAJHLDNG,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+BAJFINANCE,pro,kpi_threshold,Revenue CAGR exceeds 15% over five years.,85
+BAJFINANCE,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+BAJFINANCE,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+BAJFINANCE,con,kpi_threshold,Debt-to-equity exceeds 2x; leverage warrants attention.,88
+BAJFINANCE,con,kpi_threshold,Free cash flow is negative in the latest available year.,78
+BAJFINANCE,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+BAJFINANCE,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+BANKBARODA,pro,kpi_threshold,Revenue CAGR exceeds 15% over five years.,85
+BANKBARODA,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+BANKBARODA,con,kpi_threshold,Debt-to-equity exceeds 2x; leverage warrants attention.,88
+BANKBARODA,con,kpi_threshold,Free cash flow is negative in the latest available year.,78
+BANKBARODA,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+BEL,pro,kpi_threshold,ROE above 20% in the latest available year.,85
+BEL,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+BEL,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+BEL,con,kpi_threshold,Free cash flow is negative in the latest available year.,78
+BEL,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+BEL,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+BHARTIARTL,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+BHARTIARTL,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+BHARTIARTL,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+BHARTIARTL,con,kpi_threshold,Debt-to-equity exceeds 2x; leverage warrants attention.,88
+BHARTIARTL,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+BHEL,pro,kpi_threshold,No configured positive threshold was triggered; review the underlying KPIs.,61
+BHEL,con,kpi_threshold,Free cash flow is negative in the latest available year.,78
+BHEL,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+BHEL,con,kpi_threshold,Revenue CAGR is negative over five years.,82
+BHEL,con,kpi_threshold,Profit CAGR is negative over five years.,82
+BOSCHLTD,pro,kpi_threshold,ROE above 20% in the latest available year.,85
+BOSCHLTD,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+BOSCHLTD,pro,kpi_threshold,Free cash flow has remained positive for five consecutive years.,90
+BOSCHLTD,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+BOSCHLTD,con,kpi_threshold,No configured risk threshold was triggered; review the underlying KPIs.,61
+BPCL,pro,kpi_threshold,ROE above 20% in the latest available year.,85
+BPCL,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+BPCL,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+BPCL,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+BPCL,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+BPCL,con,kpi_threshold,No configured risk threshold was triggered; review the underlying KPIs.,61
+BRITANNIA,pro,kpi_threshold,ROE above 20% in the latest available year.,85
+BRITANNIA,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+BRITANNIA,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+BRITANNIA,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+BRITANNIA,con,kpi_threshold,No configured risk threshold was triggered; review the underlying KPIs.,61
+CANBK,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+CANBK,pro,kpi_threshold,Revenue CAGR exceeds 15% over five years.,85
+CANBK,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+CANBK,con,kpi_threshold,Debt-to-equity exceeds 2x; leverage warrants attention.,88
+CANBK,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+CHOLAFIN,pro,kpi_threshold,Revenue CAGR exceeds 15% over five years.,85
+CHOLAFIN,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+CHOLAFIN,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+CHOLAFIN,con,kpi_threshold,Debt-to-equity exceeds 2x; leverage warrants attention.,88
+CHOLAFIN,con,kpi_threshold,Free cash flow is negative in the latest available year.,78
+CHOLAFIN,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+CHOLAFIN,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+CIPLA,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+CIPLA,pro,kpi_threshold,Free cash flow has remained positive for five consecutive years.,90
+CIPLA,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+CIPLA,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+CIPLA,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+COALINDIA,pro,kpi_threshold,ROE above 20% in the latest available year.,85
+COALINDIA,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+COALINDIA,pro,kpi_threshold,Free cash flow has remained positive for five consecutive years.,90
+COALINDIA,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+COALINDIA,con,kpi_threshold,No configured risk threshold was triggered; review the underlying KPIs.,61
+DABUR,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+DABUR,pro,kpi_threshold,Free cash flow has remained positive for five consecutive years.,90
+DABUR,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+DABUR,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+DABUR,con,kpi_threshold,No configured risk threshold was triggered; review the underlying KPIs.,61
+DIVISLAB,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+DIVISLAB,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+DIVISLAB,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+DLF,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+DLF,pro,kpi_threshold,Free cash flow has remained positive for five consecutive years.,90
+DLF,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+DLF,con,kpi_threshold,Revenue CAGR is negative over five years.,82
+DLF,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+DMART,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+DMART,pro,kpi_threshold,Revenue CAGR exceeds 15% over five years.,85
+DMART,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+DMART,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+DMART,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+DMART,con,kpi_threshold,No configured risk threshold was triggered; review the underlying KPIs.,61
+DRREDDY,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+DRREDDY,pro,kpi_threshold,Free cash flow has remained positive for five consecutive years.,90
+DRREDDY,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+DRREDDY,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+DRREDDY,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+EICHERMOT,pro,kpi_threshold,ROE above 20% in the latest available year.,85
+EICHERMOT,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+EICHERMOT,pro,kpi_threshold,Free cash flow has remained positive for five consecutive years.,90
+EICHERMOT,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+EICHERMOT,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+GAIL,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+GAIL,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+GAIL,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+GAIL,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+GODREJCP,pro,kpi_threshold,No configured positive threshold was triggered; review the underlying KPIs.,61
+GODREJCP,con,kpi_threshold,Free cash flow is negative in the latest available year.,78
+GODREJCP,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+GODREJCP,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+GRASIM,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+GRASIM,con,kpi_threshold,Free cash flow is negative in the latest available year.,78
+GRASIM,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+GRASIM,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+HAL,pro,kpi_threshold,ROE above 20% in the latest available year.,85
+HAL,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+HAL,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+HAL,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+HAL,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+HAL,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+HAL,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+HAVELLS,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+HAVELLS,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+HAVELLS,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+HAVELLS,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+HCLTECH,pro,kpi_threshold,ROE above 20% in the latest available year.,85
+HCLTECH,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+HCLTECH,pro,kpi_threshold,Free cash flow has remained positive for five consecutive years.,90
+HCLTECH,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+HCLTECH,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+HCLTECH,con,kpi_threshold,No configured risk threshold was triggered; review the underlying KPIs.,61
+HDFCBANK,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+HDFCBANK,pro,kpi_threshold,Revenue CAGR exceeds 15% over five years.,85
+HDFCBANK,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+HDFCBANK,con,kpi_threshold,Debt-to-equity exceeds 2x; leverage warrants attention.,88
+HDFCBANK,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+HDFCBANK,con,kpi_threshold,Interest coverage is below 1.5x.,90
+HDFCLIFE,pro,kpi_threshold,Revenue CAGR exceeds 15% over five years.,85
+HDFCLIFE,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+HDFCLIFE,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+HDFCLIFE,con,kpi_threshold,Free cash flow is negative in the latest available year.,78
+HDFCLIFE,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+HDFCLIFE,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+HEROMOTOCO,pro,kpi_threshold,ROE above 20% in the latest available year.,85
+HEROMOTOCO,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+HEROMOTOCO,pro,kpi_threshold,Free cash flow has remained positive for five consecutive years.,90
+HEROMOTOCO,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+HEROMOTOCO,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+HEROMOTOCO,con,kpi_threshold,No configured risk threshold was triggered; review the underlying KPIs.,61
+HINDALCO,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+HINDALCO,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+HINDALCO,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+HINDALCO,con,kpi_threshold,No configured risk threshold was triggered; review the underlying KPIs.,61
+HINDUNILVR,pro,kpi_threshold,ROE above 20% in the latest available year.,85
+HINDUNILVR,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+HINDUNILVR,pro,kpi_threshold,Free cash flow has remained positive for five consecutive years.,90
+HINDUNILVR,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+HINDUNILVR,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+HINDUNILVR,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+ICICIBANK,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+ICICIBANK,pro,kpi_threshold,Revenue CAGR exceeds 15% over five years.,85
+ICICIBANK,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+ICICIBANK,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+ICICIBANK,con,kpi_threshold,Debt-to-equity exceeds 2x; leverage warrants attention.,88
+ICICIBANK,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+ICICIBANK,con,kpi_threshold,Interest coverage is below 1.5x.,90
+ICICIBANK,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+ICICIGI,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+ICICIGI,pro,kpi_threshold,Free cash flow has remained positive for five consecutive years.,90
+ICICIGI,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+ICICIGI,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+ICICIGI,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+ICICIPRULI,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+ICICIPRULI,pro,kpi_threshold,Revenue CAGR exceeds 15% over five years.,85
+ICICIPRULI,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+ICICIPRULI,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+ICICIPRULI,con,kpi_threshold,Profit CAGR is negative over five years.,82
+ICICIPRULI,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+INDIGO,pro,kpi_threshold,ROE above 20% in the latest available year.,85
+INDIGO,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+INDIGO,pro,kpi_threshold,Free cash flow has remained positive for five consecutive years.,90
+INDIGO,pro,kpi_threshold,Revenue CAGR exceeds 15% over five years.,85
+INDIGO,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+INDIGO,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+INDIGO,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+INDIGO,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+INDUSINDBK,pro,kpi_threshold,Revenue CAGR exceeds 15% over five years.,85
+INDUSINDBK,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+INDUSINDBK,con,kpi_threshold,Debt-to-equity exceeds 2x; leverage warrants attention.,88
+INDUSINDBK,con,kpi_threshold,Free cash flow is negative in the latest available year.,78
+INDUSINDBK,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+INFY,pro,kpi_threshold,ROE above 20% in the latest available year.,85
+INFY,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+INFY,pro,kpi_threshold,Free cash flow has remained positive for five consecutive years.,90
+INFY,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+INFY,con,kpi_threshold,No configured risk threshold was triggered; review the underlying KPIs.,61
+IOC,pro,kpi_threshold,ROE above 20% in the latest available year.,85
+IOC,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+IOC,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+IOC,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+IOC,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+IOC,con,kpi_threshold,No configured risk threshold was triggered; review the underlying KPIs.,61
+IRCTC,pro,kpi_threshold,ROE above 20% in the latest available year.,85
+IRCTC,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+IRCTC,pro,kpi_threshold,Revenue CAGR exceeds 15% over five years.,85
+IRCTC,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+IRCTC,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+IRCTC,con,kpi_threshold,No configured risk threshold was triggered; review the underlying KPIs.,61
+IRFC,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+IRFC,pro,kpi_threshold,Revenue CAGR exceeds 15% over five years.,85
+IRFC,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+IRFC,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+IRFC,con,kpi_threshold,Debt-to-equity exceeds 2x; leverage warrants attention.,88
+IRFC,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+IRFC,con,kpi_threshold,Interest coverage is below 1.5x.,90
+ITC,pro,kpi_threshold,ROE above 20% in the latest available year.,85
+ITC,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+ITC,pro,kpi_threshold,Free cash flow has remained positive for five consecutive years.,90
+ITC,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+ITC,con,kpi_threshold,No configured risk threshold was triggered; review the underlying KPIs.,61
+JINDALSTEL,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+JINDALSTEL,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+JINDALSTEL,con,kpi_threshold,Free cash flow is negative in the latest available year.,78
+JINDALSTEL,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+JINDALSTEL,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+JIOFIN,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+JIOFIN,pro,kpi_threshold,Debt-free balance sheet based on borrowings.,92
+JIOFIN,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+JIOFIN,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+JIOFIN,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+JSWENERGY,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+JSWENERGY,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+JSWENERGY,con,kpi_threshold,Free cash flow is negative in the latest available year.,78
+JSWENERGY,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+JSWENERGY,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+JSWSTEEL,pro,kpi_threshold,Revenue CAGR exceeds 15% over five years.,85
+JSWSTEEL,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+JSWSTEEL,con,kpi_threshold,Free cash flow is negative in the latest available year.,78
+JSWSTEEL,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+JSWSTEEL,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+KOTAKBANK,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+KOTAKBANK,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+KOTAKBANK,con,kpi_threshold,Debt-to-equity exceeds 2x; leverage warrants attention.,88
+KOTAKBANK,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+KOTAKBANK,con,kpi_threshold,Interest coverage is below 1.5x.,90
+KOTAKBANK,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+LICI,pro,kpi_threshold,ROE above 20% in the latest available year.,85
+LICI,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+LICI,pro,kpi_threshold,Free cash flow has remained positive for five consecutive years.,90
+LICI,pro,kpi_threshold,Debt-free balance sheet based on borrowings.,92
+LICI,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+LICI,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+LICI,con,kpi_threshold,No configured risk threshold was triggered; review the underlying KPIs.,61
+LODHA,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+LODHA,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+LODHA,con,kpi_threshold,Free cash flow is negative in the latest available year.,78
+LODHA,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+LODHA,con,kpi_threshold,Revenue CAGR is negative over five years.,82
+LODHA,con,kpi_threshold,Profit CAGR is negative over five years.,82
+LODHA,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+LT,pro,kpi_threshold,ROE above 20% in the latest available year.,85
+LT,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+LT,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+LT,con,kpi_threshold,No configured risk threshold was triggered; review the underlying KPIs.,61
+LTIM,pro,kpi_threshold,ROE above 20% in the latest available year.,85
+LTIM,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+LTIM,pro,kpi_threshold,Free cash flow has remained positive for five consecutive years.,90
+LTIM,pro,kpi_threshold,Revenue CAGR exceeds 15% over five years.,85
+LTIM,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+LTIM,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+LTIM,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+LTIM,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+M&M,pro,kpi_threshold,No configured positive threshold was triggered; review the underlying KPIs.,61
+M&M,con,kpi_threshold,Free cash flow is negative in the latest available year.,78
+M&M,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+MARUTI,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+MARUTI,pro,kpi_threshold,Free cash flow has remained positive for five consecutive years.,90
+MARUTI,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+MARUTI,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+MARUTI,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+MOTHERSON,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+MOTHERSON,pro,kpi_threshold,Free cash flow has remained positive for five consecutive years.,90
+MOTHERSON,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+MOTHERSON,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+MOTHERSON,con,kpi_threshold,No configured risk threshold was triggered; review the underlying KPIs.,61
+NAUKRI,pro,kpi_threshold,Revenue CAGR exceeds 15% over five years.,85
+NAUKRI,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+NAUKRI,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+NAUKRI,con,kpi_threshold,Free cash flow is negative in the latest available year.,78
+NAUKRI,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+NAUKRI,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+NESTLEIND,pro,kpi_threshold,ROE above 20% in the latest available year.,85
+NESTLEIND,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+NESTLEIND,pro,kpi_threshold,Free cash flow has remained positive for five consecutive years.,90
+NESTLEIND,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+NESTLEIND,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+NESTLEIND,con,kpi_threshold,No configured risk threshold was triggered; review the underlying KPIs.,61
+NHPC,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+NHPC,pro,kpi_threshold,Free cash flow has remained positive for five consecutive years.,90
+NHPC,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+NHPC,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+NHPC,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+NTPC,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+NTPC,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+NTPC,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+ONGC,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+ONGC,pro,kpi_threshold,Free cash flow has remained positive for five consecutive years.,90
+ONGC,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+ONGC,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+ONGC,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+PFC,pro,kpi_threshold,ROE above 20% in the latest available year.,85
+PFC,con,kpi_threshold,Debt-to-equity exceeds 2x; leverage warrants attention.,88
+PFC,con,kpi_threshold,Free cash flow is negative in the latest available year.,78
+PFC,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+PFC,con,kpi_threshold,Interest coverage is below 1.5x.,90
+PIDILITIND,pro,kpi_threshold,ROE above 20% in the latest available year.,85
+PIDILITIND,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+PIDILITIND,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+PIDILITIND,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+PIDILITIND,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+PNB,pro,kpi_threshold,ROE above 20% in the latest available year.,85
+PNB,pro,kpi_threshold,Revenue CAGR exceeds 15% over five years.,85
+PNB,con,kpi_threshold,Debt-to-equity exceeds 2x; leverage warrants attention.,88
+PNB,con,kpi_threshold,Free cash flow is negative in the latest available year.,78
+PNB,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+POWERGRID,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+POWERGRID,pro,kpi_threshold,Free cash flow has remained positive for five consecutive years.,90
+POWERGRID,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+POWERGRID,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+RECLTD,pro,kpi_threshold,ROE above 20% in the latest available year.,85
+RECLTD,con,kpi_threshold,Debt-to-equity exceeds 2x; leverage warrants attention.,88
+RECLTD,con,kpi_threshold,Free cash flow is negative in the latest available year.,78
+RECLTD,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+RELIANCE,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+RELIANCE,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+RELIANCE,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+RELIANCE,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+SBILIFE,pro,kpi_threshold,Debt-free balance sheet based on borrowings.,92
+SBILIFE,pro,kpi_threshold,Revenue CAGR exceeds 15% over five years.,85
+SBILIFE,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+SBILIFE,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+SBILIFE,con,kpi_threshold,Free cash flow is negative in the latest available year.,78
+SBILIFE,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+SBILIFE,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+SBIN,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+SBIN,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+SBIN,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+SBIN,con,kpi_threshold,Interest coverage is below 1.5x.,90
+SHREECEM,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+SHREECEM,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+SHREECEM,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+SHREECEM,con,kpi_threshold,No configured risk threshold was triggered; review the underlying KPIs.,61
+SHRIRAMFIN,pro,kpi_threshold,Revenue CAGR exceeds 15% over five years.,85
+SHRIRAMFIN,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+SHRIRAMFIN,con,kpi_threshold,Debt-to-equity exceeds 2x; leverage warrants attention.,88
+SHRIRAMFIN,con,kpi_threshold,Free cash flow is negative in the latest available year.,78
+SHRIRAMFIN,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+SHRIRAMFIN,con,kpi_threshold,Interest coverage is below 1.5x.,90
+SIEMENS,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+SIEMENS,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+SIEMENS,con,kpi_threshold,No configured risk threshold was triggered; review the underlying KPIs.,61
+SUNPHARMA,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+SUNPHARMA,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+SUNPHARMA,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+SUNPHARMA,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+SUNPHARMA,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+TATACONSUM,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+TATACONSUM,pro,kpi_threshold,Free cash flow has remained positive for five consecutive years.,90
+TATACONSUM,pro,kpi_threshold,Revenue CAGR exceeds 15% over five years.,85
+TATACONSUM,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+TATACONSUM,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+TATACONSUM,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+TATACONSUM,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+TATAMOTORS,pro,kpi_threshold,ROE above 20% in the latest available year.,85
+TATAMOTORS,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+TATAMOTORS,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+TATAMOTORS,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+TATAMOTORS,con,kpi_threshold,No configured risk threshold was triggered; review the underlying KPIs.,61
+TATAPOWER,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+TATAPOWER,pro,kpi_threshold,Revenue CAGR exceeds 15% over five years.,85
+TATAPOWER,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+TATAPOWER,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+TATAPOWER,con,kpi_threshold,Capital expenditure intensity exceeds 8% of sales.,70
+TATASTEEL,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+TATASTEEL,pro,kpi_threshold,Free cash flow has remained positive for five consecutive years.,90
+TATASTEEL,con,kpi_threshold,No configured risk threshold was triggered; review the underlying KPIs.,61
+TCS,pro,kpi_threshold,ROE above 20% in the latest available year.,85
+TCS,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+TCS,pro,kpi_threshold,Free cash flow has remained positive for five consecutive years.,90
+TCS,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+TCS,con,kpi_threshold,No configured risk threshold was triggered; review the underlying KPIs.,61
+TECHM,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+TECHM,pro,kpi_threshold,Free cash flow has remained positive for five consecutive years.,90
+TECHM,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+TECHM,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+TECHM,con,kpi_threshold,Profit CAGR is negative over five years.,82
+TECHM,con,kpi_threshold,Dividend payout exceeds 100% of reported profit.,88
+TITAN,pro,kpi_threshold,ROE above 20% in the latest available year.,85
+TITAN,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+TITAN,pro,kpi_threshold,Revenue CAGR exceeds 15% over five years.,85
+TITAN,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+TITAN,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+TITAN,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72
+TORNTPHARM,pro,kpi_threshold,ROE above 20% in the latest available year.,85
+TORNTPHARM,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+TORNTPHARM,pro,kpi_threshold,Free cash flow has remained positive for five consecutive years.,90
+TORNTPHARM,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+TORNTPHARM,pro,kpi_threshold,"Operating cash flow exceeds reported profit, supporting earnings quality.",82
+TORNTPHARM,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+TORNTPHARM,con,kpi_threshold,No configured risk threshold was triggered; review the underlying KPIs.,61
+TRENT,pro,kpi_threshold,ROE above 20% in the latest available year.,85
+TRENT,pro,kpi_threshold,Positive free cash flow in the latest available year.,75
+TRENT,pro,kpi_threshold,Revenue CAGR exceeds 15% over five years.,85
+TRENT,pro,kpi_threshold,Profit CAGR exceeds 20% over five years.,85
+TRENT,pro,kpi_threshold,Interest coverage exceeds 5x.,80
+TRENT,con,kpi_threshold,No configured risk threshold was triggered; review the underlying KPIs.,61
+TVSMOTOR,pro,kpi_threshold,ROE above 20% in the latest available year.,85
+TVSMOTOR,con,kpi_threshold,Debt-to-equity exceeds 2x; leverage warrants attention.,88
+TVSMOTOR,con,kpi_threshold,Free cash flow is negative in the latest available year.,78
+TVSMOTOR,con,kpi_threshold,Free cash flow is not positive across the latest three-year window.,72

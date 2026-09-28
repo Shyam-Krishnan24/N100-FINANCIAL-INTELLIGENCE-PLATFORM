@@ -1,0 +1,620 @@
+rule_id,company_id,year,field,issue,severity
+DQ-06,ADANIENSOL,2014-03,sales,non-positive sales,WARNING
+DQ-05,ADANIENSOL,2024-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-11,ADANIENT,2014-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,ADANIGREEN,2017-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,ADANIGREEN,2018-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,ADANIGREEN,2019-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,ADANIPOWER,2014-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,ADANIPOWER,2016-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,ADANIPOWER,2017-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,ADANIPOWER,2023-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,AMBUJACEM,2018-12,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,APOLLOHOSP,2018-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-05,AXISBANK,2013-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,AXISBANK,2014-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,AXISBANK,2015-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,AXISBANK,2016-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,AXISBANK,2017-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,AXISBANK,2018-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-11,AXISBANK,2018-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-05,AXISBANK,2019-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,AXISBANK,2020-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-11,AXISBANK,2020-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-05,AXISBANK,2021-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,AXISBANK,2022-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,AXISBANK,2023-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,AXISBANK,2024-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,BAJFINANCE,2015-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,BAJFINANCE,2016-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,BAJFINANCE,2017-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,BAJFINANCE,2018-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,BAJFINANCE,2019-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,BAJFINANCE,2020-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,BAJFINANCE,2021-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,BAJFINANCE,2022-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,BAJFINANCE,2023-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,BAJFINANCE,2024-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,BANKBARODA,2013-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,BANKBARODA,2014-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,BANKBARODA,2015-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,BANKBARODA,2016-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-11,BANKBARODA,2016-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-05,BANKBARODA,2017-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,BANKBARODA,2018-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-11,BANKBARODA,2018-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-05,BANKBARODA,2019-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,BANKBARODA,2020-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-11,BANKBARODA,2020-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-05,BANKBARODA,2021-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-11,BANKBARODA,2021-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-05,BANKBARODA,2022-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,BANKBARODA,2023-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,BANKBARODA,2024-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-11,BHARTIARTL,2014-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,BHARTIARTL,2019-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-12,BHARTIARTL,2019-03,dividend_payout,payout above 200%,WARNING
+DQ-11,BHARTIARTL,2020-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,BHARTIARTL,2021-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,BHEL,2016-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,BHEL,2018-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,BHEL,2020-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,BHEL,2021-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,BHEL,2024-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-12,BRITANNIA,2021-03,dividend_payout,payout above 200%,WARNING
+DQ-05,CANBK,2013-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,CANBK,2014-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,CANBK,2015-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,CANBK,2016-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-11,CANBK,2016-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-05,CANBK,2017-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,CANBK,2018-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-11,CANBK,2018-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-05,CANBK,2019-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-11,CANBK,2019-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-05,CANBK,2020-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,CANBK,2021-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,CANBK,2022-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,CANBK,2023-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,CANBK,2024-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,CHOLAFIN,2013-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,CHOLAFIN,2014-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,CHOLAFIN,2015-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,CHOLAFIN,2016-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,CHOLAFIN,2017-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,CHOLAFIN,2018-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,CHOLAFIN,2019-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,CHOLAFIN,2020-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,CHOLAFIN,2021-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,CHOLAFIN,2022-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,CHOLAFIN,2023-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,CHOLAFIN,2024-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,CIPLA,2013-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,CIPLA,2014-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,CIPLA,2015-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,CIPLA,2016-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,CIPLA,2017-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,CIPLA,2018-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,CIPLA,2019-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,CIPLA,2020-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,CIPLA,2021-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,CIPLA,2022-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,CIPLA,2023-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,CIPLA,2024-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,COALINDIA,2013-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,COALINDIA,2014-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,COALINDIA,2015-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,COALINDIA,2016-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,COALINDIA,2017-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,COALINDIA,2018-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,COALINDIA,2019-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,COALINDIA,2020-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,COALINDIA,2021-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,COALINDIA,2022-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,COALINDIA,2023-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,COALINDIA,2024-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-11,DLF,2014-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,DLF,2020-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,DRREDDY,2020-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,GODREJCP,2019-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,GODREJCP,2024-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,GRASIM,2020-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-05,HDFCBANK,2013-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HDFCBANK,2014-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HDFCBANK,2015-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HDFCBANK,2016-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HDFCBANK,2017-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HDFCBANK,2018-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HDFCBANK,2019-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HDFCBANK,2020-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HDFCBANK,2021-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HDFCBANK,2022-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HDFCBANK,2023-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HDFCBANK,2024-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HDFCLIFE,2013-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HDFCLIFE,2014-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HDFCLIFE,2015-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HDFCLIFE,2016-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HDFCLIFE,2017-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HDFCLIFE,2018-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HDFCLIFE,2019-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HDFCLIFE,2020-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HDFCLIFE,2021-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HDFCLIFE,2022-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HDFCLIFE,2023-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HDFCLIFE,2024-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-11,HDFCLIFE,2024-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-05,HEROMOTOCO,2014-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HEROMOTOCO,2015-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HEROMOTOCO,2016-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HEROMOTOCO,2017-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HEROMOTOCO,2018-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HEROMOTOCO,2019-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HEROMOTOCO,2020-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HEROMOTOCO,2021-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HEROMOTOCO,2022-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HEROMOTOCO,2023-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HEROMOTOCO,2024-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HINDALCO,2013-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HINDALCO,2014-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HINDALCO,2015-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-11,HINDALCO,2015-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-05,HINDALCO,2016-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-11,HINDALCO,2016-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-05,HINDALCO,2017-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HINDALCO,2018-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HINDALCO,2019-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HINDALCO,2020-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HINDALCO,2021-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HINDALCO,2022-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HINDALCO,2023-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HINDALCO,2024-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HINDUNILVR,2013-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HINDUNILVR,2014-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HINDUNILVR,2015-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HINDUNILVR,2016-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HINDUNILVR,2017-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HINDUNILVR,2018-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HINDUNILVR,2019-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HINDUNILVR,2020-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HINDUNILVR,2021-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HINDUNILVR,2022-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HINDUNILVR,2023-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,HINDUNILVR,2024-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIBANK,2013-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIBANK,2014-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIBANK,2015-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIBANK,2016-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIBANK,2017-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIBANK,2018-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIBANK,2019-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIBANK,2020-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIBANK,2021-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIBANK,2022-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIBANK,2023-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIBANK,2024-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIGI,2013-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIGI,2014-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIGI,2015-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIGI,2016-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIGI,2017-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIGI,2018-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIGI,2019-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIGI,2020-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIGI,2021-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIGI,2022-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIGI,2023-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIGI,2024-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIPRULI,2013-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIPRULI,2014-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIPRULI,2015-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIPRULI,2016-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIPRULI,2017-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIPRULI,2018-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIPRULI,2019-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIPRULI,2020-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIPRULI,2021-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIPRULI,2022-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIPRULI,2023-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,ICICIPRULI,2024-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,INDUSINDBK,2013-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,INDUSINDBK,2014-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,INDUSINDBK,2015-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,INDUSINDBK,2016-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,INDUSINDBK,2017-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,INDUSINDBK,2018-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,INDUSINDBK,2019-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,INDUSINDBK,2020-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,INDUSINDBK,2021-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,INDUSINDBK,2022-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,INDUSINDBK,2023-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,INDUSINDBK,2024-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-11,IOC,2020-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,IRFC,2013-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,JINDALSTEL,2015-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,JINDALSTEL,2016-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,JINDALSTEL,2017-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,JINDALSTEL,2018-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,JINDALSTEL,2019-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-05,JIOFIN,2023-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-14,JIOFIN,2023-03,eps,EPS sign mismatch,WARNING
+DQ-11,JSWENERGY,2018-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-14,JSWENERGY,2018-03,eps,EPS sign mismatch,WARNING
+DQ-11,JSWSTEEL,2014-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,JSWSTEEL,2016-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,JSWSTEEL,2020-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-05,KOTAKBANK,2013-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,KOTAKBANK,2014-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,KOTAKBANK,2015-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,KOTAKBANK,2016-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,KOTAKBANK,2017-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,KOTAKBANK,2018-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,KOTAKBANK,2019-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,KOTAKBANK,2020-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,KOTAKBANK,2021-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,KOTAKBANK,2022-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,KOTAKBANK,2023-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,KOTAKBANK,2024-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-11,LICI,2019-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-14,LICI,2019-03,eps,EPS sign mismatch,WARNING
+DQ-11,LICI,2020-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-14,LICI,2020-03,eps,EPS sign mismatch,WARNING
+DQ-11,LICI,2021-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,LICI,2022-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,LODHA,2021-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,LODHA,2023-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,M&M,2020-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-12,M&M,2020-03,dividend_payout,payout above 200%,WARNING
+DQ-11,MOTHERSON,2020-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,NAUKRI,2015-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,NAUKRI,2017-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,NAUKRI,2020-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,NAUKRI,2023-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,NHPC,2020-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,NHPC,2022-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,NTPC,2016-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,NTPC,2019-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,PNB,2016-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,PNB,2018-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,PNB,2019-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,POWERGRID,2019-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,SBIN,2017-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-12,SBIN,2017-03,dividend_payout,payout above 200%,WARNING
+DQ-11,SBIN,2018-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,SHREECEM,2015-06,tax_percentage,tax rate outside 0-60,WARNING
+DQ-14,SIEMENS,2011-09,eps,EPS sign mismatch,WARNING
+DQ-05,SUNPHARMA,2024-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-11,TATACONSUM,2016-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,TATAMOTORS,2019-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,TATAMOTORS,2024-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,TATAPOWER,2013-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-14,TATAPOWER,2013-03,eps,EPS sign mismatch,WARNING
+DQ-11,TATAPOWER,2014-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-14,TATAPOWER,2014-03,eps,EPS sign mismatch,WARNING
+DQ-11,TATAPOWER,2015-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-12,TATAPOWER,2015-03,dividend_payout,payout above 200%,WARNING
+DQ-11,TATASTEEL,2013-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,TATASTEEL,2015-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,TATASTEEL,2016-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,TATASTEEL,2017-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,TATASTEEL,2020-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,TATASTEEL,2024-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,TRENT,2013-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,TRENT,2014-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,TRENT,2021-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-11,TRENT,2022-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-05,INDIGO,2013-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,INDIGO,2014-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,INDIGO,2015-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,INDIGO,2016-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,INDIGO,2017-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,INDIGO,2018-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,INDIGO,2019-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-11,INDIGO,2019-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-05,INDIGO,2020-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-11,INDIGO,2020-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-05,INDIGO,2021-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,INDIGO,2022-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,INDIGO,2023-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-05,INDIGO,2024-03,opm_percentage,OPM cross-check mismatch,WARNING
+DQ-11,INDIGO,2024-03,tax_percentage,tax rate outside 0-60,WARNING
+DQ-09,TVSMOTOR,2022-03,net_cash_flow,cash flow sum mismatch,WARNING
+DQ-13,ADANIENSOL,2015,Annual_Report,invalid URL format,WARNING
+DQ-13,ADANIENSOL,2014,Annual_Report,invalid URL format,WARNING
+DQ-13,ADANIENSOL,2013,Annual_Report,invalid URL format,WARNING
+DQ-13,ADANIENSOL,2012,Annual_Report,invalid URL format,WARNING
+DQ-13,ADANIENSOL,2011,Annual_Report,invalid URL format,WARNING
+DQ-13,ADANIENSOL,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,ADANIENSOL,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,ADANIGREEN,2017,Annual_Report,invalid URL format,WARNING
+DQ-13,ADANIGREEN,2016,Annual_Report,invalid URL format,WARNING
+DQ-13,ADANIGREEN,2015,Annual_Report,invalid URL format,WARNING
+DQ-13,ADANIGREEN,2014,Annual_Report,invalid URL format,WARNING
+DQ-13,ADANIGREEN,2013,Annual_Report,invalid URL format,WARNING
+DQ-13,ADANIGREEN,2012,Annual_Report,invalid URL format,WARNING
+DQ-13,ADANIGREEN,2011,Annual_Report,invalid URL format,WARNING
+DQ-13,ADANIGREEN,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,ADANIGREEN,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,ADANIPORTS,2019,Annual_Report,invalid URL format,WARNING
+DQ-13,ADANIPORTS,2018,Annual_Report,invalid URL format,WARNING
+DQ-13,ADANIPORTS,2017,Annual_Report,invalid URL format,WARNING
+DQ-13,ADANIPORTS,2015,Annual_Report,invalid URL format,WARNING
+DQ-13,ADANIPORTS,2014,Annual_Report,invalid URL format,WARNING
+DQ-13,ADANIPORTS,2013,Annual_Report,invalid URL format,WARNING
+DQ-13,ADANIPORTS,2012,Annual_Report,invalid URL format,WARNING
+DQ-13,ADANIPORTS,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,ADANIPORTS,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,ADANIPOWER,2015,Annual_Report,invalid URL format,WARNING
+DQ-13,ADANIPOWER,2014,Annual_Report,invalid URL format,WARNING
+DQ-13,ADANIPOWER,2013,Annual_Report,invalid URL format,WARNING
+DQ-13,ADANIPOWER,2011,Annual_Report,invalid URL format,WARNING
+DQ-13,ADANIPOWER,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,ADANIPOWER,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,AMBUJACEM,2014,Annual_Report,invalid URL format,WARNING
+DQ-13,AMBUJACEM,2013,Annual_Report,invalid URL format,WARNING
+DQ-13,AMBUJACEM,2012,Annual_Report,invalid URL format,WARNING
+DQ-13,AMBUJACEM,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,AMBUJACEM,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,APOLLOHOSP,2019,Annual_Report,invalid URL format,WARNING
+DQ-13,APOLLOHOSP,2015,Annual_Report,invalid URL format,WARNING
+DQ-13,APOLLOHOSP,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,APOLLOHOSP,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,ASIANPAINT,2013,Annual_Report,invalid URL format,WARNING
+DQ-13,ASIANPAINT,2012,Annual_Report,invalid URL format,WARNING
+DQ-13,ASIANPAINT,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,ASIANPAINT,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,ATGL,2018,Annual_Report,invalid URL format,WARNING
+DQ-13,ATGL,2017,Annual_Report,invalid URL format,WARNING
+DQ-13,ATGL,2016,Annual_Report,invalid URL format,WARNING
+DQ-13,ATGL,2015,Annual_Report,invalid URL format,WARNING
+DQ-13,ATGL,2014,Annual_Report,invalid URL format,WARNING
+DQ-13,ATGL,2013,Annual_Report,invalid URL format,WARNING
+DQ-13,ATGL,2012,Annual_Report,invalid URL format,WARNING
+DQ-13,ATGL,2011,Annual_Report,invalid URL format,WARNING
+DQ-13,ATGL,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,ATGL,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,AXISBANK,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,AXISBANK,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,BAJAJ-AUTO,2014,Annual_Report,invalid URL format,WARNING
+DQ-13,BAJAJ-AUTO,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,BAJAJ-AUTO,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,BAJAJFINSV,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,BAJAJFINSV,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,BAJAJHLDNG,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,BAJAJHLDNG,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,BAJFINANCE,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,BAJFINANCE,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,BRITANNIA,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,BRITANNIA,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,CANBK,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,CANBK,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,CHOLAFIN,2015,Annual_Report,invalid URL format,WARNING
+DQ-13,CHOLAFIN,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,CHOLAFIN,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,CIPLA,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,CIPLA,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,COALINDIA,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,DABUR,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,DABUR,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,DLF,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,DLF,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,DMART,2016,Annual_Report,invalid URL format,WARNING
+DQ-13,DMART,2015,Annual_Report,invalid URL format,WARNING
+DQ-13,DMART,2014,Annual_Report,invalid URL format,WARNING
+DQ-13,DMART,2013,Annual_Report,invalid URL format,WARNING
+DQ-13,DMART,2012,Annual_Report,invalid URL format,WARNING
+DQ-13,DMART,2011,Annual_Report,invalid URL format,WARNING
+DQ-13,DMART,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,DMART,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,DRREDDY,2011,Annual_Report,invalid URL format,WARNING
+DQ-13,DRREDDY,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,DRREDDY,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,EICHERMOT,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,EICHERMOT,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,GAIL,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,GAIL,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,GODREJCP,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,GODREJCP,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,GRASIM,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,GRASIM,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,HAL,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,HAVELLS,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,HAVELLS,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,HCLTECH,2011,Annual_Report,invalid URL format,WARNING
+DQ-13,HCLTECH,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,HCLTECH,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,HDFCBANK,2013,Annual_Report,invalid URL format,WARNING
+DQ-13,HDFCBANK,2011,Annual_Report,invalid URL format,WARNING
+DQ-13,HDFCBANK,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,HDFCBANK,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,HDFCLIFE,2012,Annual_Report,invalid URL format,WARNING
+DQ-13,HDFCLIFE,2011,Annual_Report,invalid URL format,WARNING
+DQ-13,HDFCLIFE,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,HDFCLIFE,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,HDFCLIFE,2008,Annual_Report,invalid URL format,WARNING
+DQ-13,HEROMOTOCO,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,HEROMOTOCO,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,HINDALCO,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,HINDALCO,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,HINDUNILVR,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,HINDUNILVR,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,ICICIBANK,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,ICICIGI,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,ICICIPRULI,2011,Annual_Report,invalid URL format,WARNING
+DQ-13,ICICIPRULI,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,ICICIPRULI,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,INDIGO,2015,Annual_Report,invalid URL format,WARNING
+DQ-13,INDIGO,2014,Annual_Report,invalid URL format,WARNING
+DQ-13,INDIGO,2013,Annual_Report,invalid URL format,WARNING
+DQ-13,INDIGO,2012,Annual_Report,invalid URL format,WARNING
+DQ-13,INDIGO,2011,Annual_Report,invalid URL format,WARNING
+DQ-13,INDIGO,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,INDIGO,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,INDUSINDBK,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,INDUSINDBK,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,INFY,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,INFY,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,IOC,2024,Annual_Report,invalid URL format,WARNING
+DQ-13,IOC,2023,Annual_Report,invalid URL format,WARNING
+DQ-13,IOC,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,IOC,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,IRCTC,2019,Annual_Report,invalid URL format,WARNING
+DQ-13,IRCTC,2018,Annual_Report,invalid URL format,WARNING
+DQ-13,IRCTC,2017,Annual_Report,invalid URL format,WARNING
+DQ-13,IRCTC,2016,Annual_Report,invalid URL format,WARNING
+DQ-13,IRCTC,2015,Annual_Report,invalid URL format,WARNING
+DQ-13,IRCTC,2014,Annual_Report,invalid URL format,WARNING
+DQ-13,IRCTC,2013,Annual_Report,invalid URL format,WARNING
+DQ-13,IRCTC,2012,Annual_Report,invalid URL format,WARNING
+DQ-13,IRCTC,2011,Annual_Report,invalid URL format,WARNING
+DQ-13,IRCTC,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,IRCTC,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,IRFC,2020,Annual_Report,invalid URL format,WARNING
+DQ-13,IRFC,2019,Annual_Report,invalid URL format,WARNING
+DQ-13,IRFC,2018,Annual_Report,invalid URL format,WARNING
+DQ-13,IRFC,2017,Annual_Report,invalid URL format,WARNING
+DQ-13,IRFC,2016,Annual_Report,invalid URL format,WARNING
+DQ-13,IRFC,2015,Annual_Report,invalid URL format,WARNING
+DQ-13,IRFC,2014,Annual_Report,invalid URL format,WARNING
+DQ-13,IRFC,2013,Annual_Report,invalid URL format,WARNING
+DQ-13,IRFC,2012,Annual_Report,invalid URL format,WARNING
+DQ-13,IRFC,2011,Annual_Report,invalid URL format,WARNING
+DQ-13,IRFC,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,IRFC,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,JIOFIN,2023,Annual_Report,invalid URL format,WARNING
+DQ-13,JIOFIN,2022,Annual_Report,invalid URL format,WARNING
+DQ-13,JIOFIN,2021,Annual_Report,invalid URL format,WARNING
+DQ-13,JIOFIN,2020,Annual_Report,invalid URL format,WARNING
+DQ-13,JIOFIN,2019,Annual_Report,invalid URL format,WARNING
+DQ-13,JIOFIN,2018,Annual_Report,invalid URL format,WARNING
+DQ-13,JIOFIN,2017,Annual_Report,invalid URL format,WARNING
+DQ-13,JIOFIN,2016,Annual_Report,invalid URL format,WARNING
+DQ-13,JIOFIN,2015,Annual_Report,invalid URL format,WARNING
+DQ-13,JIOFIN,2014,Annual_Report,invalid URL format,WARNING
+DQ-13,JIOFIN,2013,Annual_Report,invalid URL format,WARNING
+DQ-13,JIOFIN,2012,Annual_Report,invalid URL format,WARNING
+DQ-13,JIOFIN,2011,Annual_Report,invalid URL format,WARNING
+DQ-13,JIOFIN,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,JIOFIN,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,JSWENERGY,2011,Annual_Report,invalid URL format,WARNING
+DQ-13,JSWENERGY,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,JSWENERGY,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,JSWSTEEL,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,JSWSTEEL,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,KOTAKBANK,2023,Annual_Report,invalid URL format,WARNING
+DQ-13,KOTAKBANK,2022,Annual_Report,invalid URL format,WARNING
+DQ-13,KOTAKBANK,2021,Annual_Report,invalid URL format,WARNING
+DQ-13,KOTAKBANK,2017,Annual_Report,invalid URL format,WARNING
+DQ-13,KOTAKBANK,2016,Annual_Report,invalid URL format,WARNING
+DQ-13,KOTAKBANK,2015,Annual_Report,invalid URL format,WARNING
+DQ-13,KOTAKBANK,2013,Annual_Report,invalid URL format,WARNING
+DQ-13,KOTAKBANK,2012,Annual_Report,invalid URL format,WARNING
+DQ-13,KOTAKBANK,2011,Annual_Report,invalid URL format,WARNING
+DQ-13,KOTAKBANK,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,KOTAKBANK,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,LICI,2018,Annual_Report,invalid URL format,WARNING
+DQ-13,LICI,2017,Annual_Report,invalid URL format,WARNING
+DQ-13,LICI,2016,Annual_Report,invalid URL format,WARNING
+DQ-13,LICI,2015,Annual_Report,invalid URL format,WARNING
+DQ-13,LICI,2014,Annual_Report,invalid URL format,WARNING
+DQ-13,LICI,2013,Annual_Report,invalid URL format,WARNING
+DQ-13,LICI,2012,Annual_Report,invalid URL format,WARNING
+DQ-13,LICI,2011,Annual_Report,invalid URL format,WARNING
+DQ-13,LICI,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,LICI,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,LODHA,2020,Annual_Report,invalid URL format,WARNING
+DQ-13,LODHA,2019,Annual_Report,invalid URL format,WARNING
+DQ-13,LODHA,2018,Annual_Report,invalid URL format,WARNING
+DQ-13,LODHA,2017,Annual_Report,invalid URL format,WARNING
+DQ-13,LODHA,2016,Annual_Report,invalid URL format,WARNING
+DQ-13,LODHA,2015,Annual_Report,invalid URL format,WARNING
+DQ-13,LODHA,2014,Annual_Report,invalid URL format,WARNING
+DQ-13,LODHA,2013,Annual_Report,invalid URL format,WARNING
+DQ-13,LODHA,2012,Annual_Report,invalid URL format,WARNING
+DQ-13,LODHA,2011,Annual_Report,invalid URL format,WARNING
+DQ-13,LODHA,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,LODHA,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,LT,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,LT,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,LTIM,2016,Annual_Report,invalid URL format,WARNING
+DQ-13,LTIM,2015,Annual_Report,invalid URL format,WARNING
+DQ-13,LTIM,2014,Annual_Report,invalid URL format,WARNING
+DQ-13,LTIM,2013,Annual_Report,invalid URL format,WARNING
+DQ-13,LTIM,2012,Annual_Report,invalid URL format,WARNING
+DQ-13,LTIM,2011,Annual_Report,invalid URL format,WARNING
+DQ-13,LTIM,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,LTIM,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,M&M,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,M&M,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,MARUTI,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,MARUTI,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,MOTHERSON,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,MOTHERSON,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,NAUKRI,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,NAUKRI,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,NHPC,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,NHPC,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,NTPC,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,NTPC,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,ONGC,2011,Annual_Report,invalid URL format,WARNING
+DQ-13,ONGC,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,ONGC,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,PFC,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,PFC,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,PIDILITIND,2011,Annual_Report,invalid URL format,WARNING
+DQ-13,PIDILITIND,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,PIDILITIND,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,PNB,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,PNB,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,POWERGRID,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,POWERGRID,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,RECLTD,2011,Annual_Report,invalid URL format,WARNING
+DQ-13,RECLTD,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,RECLTD,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,RELIANCE,2011,Annual_Report,invalid URL format,WARNING
+DQ-13,RELIANCE,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,RELIANCE,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,SBILIFE,2017,Annual_Report,invalid URL format,WARNING
+DQ-13,SBILIFE,2016,Annual_Report,invalid URL format,WARNING
+DQ-13,SBILIFE,2015,Annual_Report,invalid URL format,WARNING
+DQ-13,SBILIFE,2014,Annual_Report,invalid URL format,WARNING
+DQ-13,SBILIFE,2013,Annual_Report,invalid URL format,WARNING
+DQ-13,SBILIFE,2012,Annual_Report,invalid URL format,WARNING
+DQ-13,SBILIFE,2011,Annual_Report,invalid URL format,WARNING
+DQ-13,SBILIFE,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,SBILIFE,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,SBIN,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,SHREECEM,2011,Annual_Report,invalid URL format,WARNING
+DQ-13,SHREECEM,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,SHREECEM,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,SHRIRAMFIN,2011,Annual_Report,invalid URL format,WARNING
+DQ-13,SHRIRAMFIN,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,SHRIRAMFIN,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,SIEMENS,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,SIEMENS,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,TATACONSUM,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,TATACONSUM,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,TATAMOTORS,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,TATAMOTORS,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,TATAPOWER,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,TATAPOWER,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,TATASTEEL,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,TATASTEEL,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,TCS,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,TCS,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,TECHM,2012,Annual_Report,invalid URL format,WARNING
+DQ-13,TECHM,2011,Annual_Report,invalid URL format,WARNING
+DQ-13,TECHM,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,TECHM,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,TITAN,2011,Annual_Report,invalid URL format,WARNING
+DQ-13,TITAN,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,TITAN,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,TORNTPHARM,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,TORNTPHARM,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,TRENT,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,TRENT,2009,Annual_Report,invalid URL format,WARNING
+DQ-13,TVSMOTOR,2010,Annual_Report,invalid URL format,WARNING
+DQ-13,TVSMOTOR,2009,Annual_Report,invalid URL format,WARNING
+DQ-16,ATGL,,coverage,less than 5 years in one statement,WARNING
+DQ-16,JIOFIN,,coverage,less than 5 years in one statement,WARNING
+DQ-16,SBIN,,coverage,less than 5 years in one statement,WARNING

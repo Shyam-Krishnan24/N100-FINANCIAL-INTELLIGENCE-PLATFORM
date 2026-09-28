@@ -1,0 +1,24 @@
+presets:
+  Quality Compounder:
+    filters: {min_roe: 15, max_de: 1.0, min_fcf: 0, min_revenue_cagr_5yr: 10}
+    ranking: composite_score
+  Value Pick:
+    filters: {max_pe: 20, max_pb: 3.0, max_de: 2.0, min_dividend_yield: 1}
+    ranking: fcf_yield_pct
+  Growth Accelerator:
+    filters: {min_pat_cagr_5yr: 20, min_revenue_cagr_5yr: 15, max_de: 2.0}
+    ranking: pat_cagr_5yr
+  Dividend Champion:
+    filters: {min_dividend_yield: 2, max_dividend_payout: 80, min_fcf: 0}
+    ranking: dividend_yield_pct
+  Debt-Free Blue Chip:
+    filters: {max_de: 0, min_roe: 12, min_revenue: 5000}
+    ranking: return_on_equity_pct
+  Turnaround Watch:
+    filters: {min_revenue_cagr_3yr: 10, min_fcf: 0, debt_declining: true}
+    ranking: revenue_cagr_3yr
+weights:
+  profitability: 0.35
+  cash_quality: 0.30
+  growth: 0.20
+  leverage: 0.15
