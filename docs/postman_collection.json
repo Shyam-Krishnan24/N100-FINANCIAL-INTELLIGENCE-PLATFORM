@@ -1,0 +1,120 @@
+{
+  "info": {
+    "name": "Nifty100 Financial Intelligence API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "/api/v1/companies",
+      "request": {
+        "method": "GET",
+        "url": "http://localhost:8000/api/v1/companies"
+      }
+    },
+    {
+      "name": "/api/v1/companies/TCS",
+      "request": {
+        "method": "GET",
+        "url": "http://localhost:8000/api/v1/companies/TCS"
+      }
+    },
+    {
+      "name": "/api/v1/companies/TCS/pl",
+      "request": {
+        "method": "GET",
+        "url": "http://localhost:8000/api/v1/companies/TCS/pl"
+      }
+    },
+    {
+      "name": "/api/v1/companies/TCS/bs",
+      "request": {
+        "method": "GET",
+        "url": "http://localhost:8000/api/v1/companies/TCS/bs"
+      }
+    },
+    {
+      "name": "/api/v1/companies/TCS/cashflow",
+      "request": {
+        "method": "GET",
+        "url": "http://localhost:8000/api/v1/companies/TCS/cashflow"
+      }
+    },
+    {
+      "name": "/api/v1/companies/TCS/ratios",
+      "request": {
+        "method": "GET",
+        "url": "http://localhost:8000/api/v1/companies/TCS/ratios"
+      }
+    },
+    {
+      "name": "/api/v1/companies/TCS/tearsheet",
+      "request": {
+        "method": "GET",
+        "url": "http://localhost:8000/api/v1/companies/TCS/tearsheet"
+      }
+    },
+    {
+      "name": "/api/v1/screener?min_roe=15",
+      "request": {
+        "method": "GET",
+        "url": "http://localhost:8000/api/v1/screener?min_roe=15"
+      }
+    },
+    {
+      "name": "/api/v1/sectors",
+      "request": {
+        "method": "GET",
+        "url": "http://localhost:8000/api/v1/sectors"
+      }
+    },
+    {
+      "name": "/api/v1/sectors/Industrials/companies",
+      "request": {
+        "method": "GET",
+        "url": "http://localhost:8000/api/v1/sectors/Industrials/companies"
+      }
+    },
+    {
+      "name": "/api/v1/peers/IT%20Services",
+      "request": {
+        "method": "GET",
+        "url": "http://localhost:8000/api/v1/peers/IT%20Services"
+      }
+    },
+    {
+      "name": "/api/v1/companies/TCS/peers/compare",
+      "request": {
+        "method": "GET",
+        "url": "http://localhost:8000/api/v1/companies/TCS/peers/compare"
+      }
+    },
+    {
+      "name": "/api/v1/market-cap/TCS",
+      "request": {
+        "method": "GET",
+        "url": "http://localhost:8000/api/v1/market-cap/TCS"
+      }
+    },
+    {
+      "name": "/api/v1/portfolio/stats",
+      "request": {
+        "method": "GET",
+        "url": "http://localhost:8000/api/v1/portfolio/stats"
+      }
+    },
+    {
+      "name": "/api/v1/companies/TCS/documents",
+      "request": {
+        "method": "GET",
+        "url": "http://localhost:8000/api/v1/companies/TCS/documents"
+      }
+    },
+    {
+      "name": "/api/v1/health",
+      "request": {
+        "method": "GET",
+        "url": "http://localhost:8000/api/v1/health"
+      }
+    }
+  ]
+}

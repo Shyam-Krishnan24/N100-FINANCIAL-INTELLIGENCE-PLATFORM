@@ -1,0 +1,9 @@
+........................................................................ [ 60%]
+...............................................                          [100%]
+=============================== warnings summary ===============================
+tests/api/test_endpoints_smoke.py::test_endpoint_exists[/api/v1/peers/IT%20Services]
+  /mnt/data/nifty100_financial_intelligence/src/api/main.py:10: UserWarning: DataFrame columns are not unique, some columns will be omitted.
+    con=sqlite3.connect(DB); x=pd.read_sql_query(sql,con,params=params); con.close(); return x.replace({float("nan"):None}).to_dict(orient="records")
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+119 passed, 1 warning in 0.56s

@@ -1,0 +1,5 @@
+id,company_id,compounded_sales_growth,compounded_profit_growth,stock_price_cagr,roe
+16,TCS,TTM:            5%             ,TTM:                 8%,      1 Year:       16%,Last Year:       52%
+4,HDFCBANK,TTM:            47%,TTM:                27%,      1 Year:        13%,Last Year:    17%
+8,INFY,TTM:            3%,TTM:                 8%,       1 Year:       27%,Last Year:     32%
+9,SBILIFE,10 Years:     23%,10 Years:          9%,    10 Years:      9%,10 Years:      16%
